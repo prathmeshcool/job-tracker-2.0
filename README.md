@@ -2,7 +2,7 @@
 
 A full-stack MERN application to track job applications — built with authentication, a professional SaaS-style dark UI, analytics dashboard, and notes per application.
 
-> **Live Demo:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+> **Live Demo:** [https://job-tracker-2-0-d0eunkx2l-prathmeshcools-projects.vercel.app](https://job-tracker-2-0-d0eunkx2l-prathmeshcools-projects.vercel.app)
 
 ---
 
